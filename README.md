@@ -42,7 +42,7 @@
    ```
 3. Run the application:
    ```bash
-   python HideInSight.py
+   python main.py
    ```
 
 ---
